@@ -41,14 +41,20 @@ Archivo .sql con las sentencias para ejecutarlas
 
 # 🔎 Resultados y Conclusiones
 El uso de SQL permite responder eficientemente preguntas complejas sobre una base de datos de películas. Las consultas muestran:
+
 La importancia de relaciones entre tablas (JOINs) para acceder a información distribuida.
+
 Cómo el filtrado con HAVING, GROUP BY, DISTINCT y subconsultas permite obtener datos precisos.
+
 Que ciertas condiciones externas (como estructura de la base de datos o datos faltantes) influyen en los resultados.
 
 # 🔄 Próximos pasos
 Integración con visualizaciones gráficas mediante herramientas como Power BI o Tableau.
+
 Creación de vistas SQL para consultas frecuentes.
+
 Automatización de reportes en dashboards interactivos.
+
 Ampliación del conjunto de datos con métricas de facturación o satisfacción del cliente.
 
 # 🤝 Contribuciones
