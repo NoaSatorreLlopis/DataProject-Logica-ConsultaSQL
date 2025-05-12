@@ -6,9 +6,13 @@ El propósito es desarrollar habilidades de análisis de datos con SQL y compren
 
 # 🗂️ Estructura del proyecto
 ├── consultas/
+
 	├── ejercicios.sql
+ 
 ├── captura/
+
 	├── esquema_bd.png
+ 
 ├── README.md
 
 # 🛠️ Instalación y Requisitos
