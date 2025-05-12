@@ -19,16 +19,24 @@ El propósito es desarrollar habilidades de análisis de datos con SQL y compren
 Este proyecto fue desarrollado con un motor de base de datos PostgreSQL, pero puede adaptarse fácilmente a otros sistemas como MySQL o SQLite con mínimas modificaciones.
 
 Requisitos:
+
 PostgreSQL (recomendado)
+
 PgAdmin u otra herramienta de consulta SQL
+
 Archivo .sql con las sentencias para ejecutarlas
 
 # 📊 Consultas Destacadas
 🎬 Obtener películas cuyo idioma coincide con el original.
+
 🛒 Encontrar clientes que alquilaron al menos 7 películas distintas.
+
 🕓 Identificar películas alquiladas por más de 8 días.
+
 📂 Contar alquileres por categoría de película.
+
 🧍‍♂️ Generar combinaciones posibles entre empleados y tiendas.
+
 🔁 Películas que comparten duración con otra específica.
 
 # 🔎 Resultados y Conclusiones
